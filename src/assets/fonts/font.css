@@ -1,0 +1,38 @@
+/** NEXON Lv1 Gothic **/
+@font-face {
+  font-family: 'NEXON Lv1 Gothic OTF';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./NEXON-Light.eot');
+  src: url('./NEXON-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'NEXON Lv1 Gothic OTF';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./NEXON.eot');
+  src: url('./NEXON.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'NEXON Lv1 Gothic OTF';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./NEXON-Bold.eot');
+  src: url('./NEXON-Bold.woff') format('woff');
+}
+
+
+/** Pretendard **/
+
+@font-face {
+  font-family: 'Pretendard-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./Pretendard-Regular.woff') format('woff');
+}
